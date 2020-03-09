@@ -100,6 +100,10 @@ img {
     max-width: 100%;
 }
 
+.signature {
+    max-width: 35%;
+}
+
 *:focus {
     outline: none;
 }
